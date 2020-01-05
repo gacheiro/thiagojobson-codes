@@ -1,8 +1,9 @@
 # Travelling Salesman Problem
 Exact implementation of the Travelling Salesman Problem.
+
 The algorithm naively enumerates all possible routes and calculates the best one.
 
-# How to run
+## How to run
 ```
 ruby tsp.rb
 => Best route found:
